@@ -3,5 +3,3 @@
 def meal_choice(food = "meat")
   puts "I want to eat #{food}!"
 end
-
-meal_choice
