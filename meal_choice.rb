@@ -3,3 +3,5 @@
 def meal_choice(food, "meat")
   puts "I want top eat #{food}!"
 end
+
+meal_choice
